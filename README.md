@@ -1,4 +1,4 @@
-# elastic-sql-api
+# elastic-sql-api elasticsearch程序快速接口开发利器
 rapid config to create api from  elasticsearch to another APP,simple to write sql to ini file.
 Elasticsearch快速生成api引擎，通用需求，不用写代码，仅仅用sql在配置文件里配置，就可以为外部数据调用生成api数据调用接口。
 
